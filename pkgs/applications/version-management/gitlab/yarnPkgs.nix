@@ -7970,14 +7970,6 @@
       };
     }
     {
-      name = "linkifyjs___linkifyjs_2.1.9.tgz";
-      path = fetchurl {
-        name = "linkifyjs___linkifyjs_2.1.9.tgz";
-        url  = "https://registry.yarnpkg.com/linkifyjs/-/linkifyjs-2.1.9.tgz";
-        sha1 = "af06e45a2866ff06c4766582590d098a4d584702";
-      };
-    }
-    {
       name = "load_json_file___load_json_file_1.1.0.tgz";
       path = fetchurl {
         name = "load_json_file___load_json_file_1.1.0.tgz";

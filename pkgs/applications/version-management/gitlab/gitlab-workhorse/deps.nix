@@ -725,8 +725,8 @@
     fetch = {
       type = "git";
       url = "https://github.com/go-gl/glfw";
-      rev = "6f7a984d4dc4";
-      sha256 = "1nyv7h08qf4dp8w9pmcnrc6vv9bkwj8fil6pz0mkbss5hf4i8xcq";
+      rev = "e6da0acd62b1";
+      sha256 = "0prvx5r7q8yrhqvnwibv4xz3dayjbq36yajzqvh0z4lqsh4hyhch";
     };
   }
   {
@@ -995,8 +995,8 @@
     fetch = {
       type = "git";
       url = "https://github.com/googleapis/gax-go";
-      rev = "v2.0.2";
-      sha256 = "0094iz2bfl1k41cz036xs7ybw0iws0a9nrvn8pjrf190gx89xggz";
+      rev = "v2.0.5";
+      sha256 = "1lxawwngv6miaqd25s3ba0didfzylbwisd2nz7r4gmbmin6jsjrx";
     };
   }
   {
