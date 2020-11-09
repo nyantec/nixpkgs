@@ -13402,11 +13402,11 @@
       };
     }
     {
-      name = "vue_router___vue_router_3.4.7.tgz";
+      name = "vue_router___vue_router_3.4.5.tgz";
       path = fetchurl {
-        name = "vue_router___vue_router_3.4.7.tgz";
-        url  = "https://registry.yarnpkg.com/vue-router/-/vue-router-3.4.7.tgz";
-        sha1 = "bf189bafd16f4e4ef783c4a6250a3090f2c1fa1b";
+        name = "vue_router___vue_router_3.4.5.tgz";
+        url  = "https://registry.yarnpkg.com/vue-router/-/vue-router-3.4.5.tgz";
+        sha1 = "d396ec037b35931bdd1e9b7edd86f9788dc15175";
       };
     }
     {
