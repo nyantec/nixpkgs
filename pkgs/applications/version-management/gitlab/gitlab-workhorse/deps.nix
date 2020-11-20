@@ -347,8 +347,8 @@
     fetch = {
       type = "git";
       url = "https://github.com/certifi/gocertifi";
-      rev = "ee1a9a0726d2";
-      sha256 = "08l6lqaw83pva6fa0aafmhmy1mhb145av21772zfh3ij809a37i4";
+      rev = "2c3bb06c6054";
+      sha256 = "00g5jy613nkm96k6ylbcwdwpdhm84mvw2gqr3gmj5mhwmsc8x97p";
     };
   }
   {
@@ -671,8 +671,8 @@
     fetch = {
       type = "git";
       url = "https://github.com/getsentry/raven-go";
-      rev = "v0.1.2";
-      sha256 = "1dl80kar4lzdcfl3w6jssi1ld6bv0rmx6sp6bz6rzysfr9ilm02z";
+      rev = "v0.2.0";
+      sha256 = "0imfwmsb72168fqandf2lxhzhngf2flxhzaar8hcnnfjv2a291lf";
     };
   }
   {
@@ -725,8 +725,8 @@
     fetch = {
       type = "git";
       url = "https://github.com/go-gl/glfw";
-      rev = "6f7a984d4dc4";
-      sha256 = "1nyv7h08qf4dp8w9pmcnrc6vv9bkwj8fil6pz0mkbss5hf4i8xcq";
+      rev = "e6da0acd62b1";
+      sha256 = "0prvx5r7q8yrhqvnwibv4xz3dayjbq36yajzqvh0z4lqsh4hyhch";
     };
   }
   {
@@ -995,8 +995,8 @@
     fetch = {
       type = "git";
       url = "https://github.com/googleapis/gax-go";
-      rev = "v2.0.2";
-      sha256 = "0094iz2bfl1k41cz036xs7ybw0iws0a9nrvn8pjrf190gx89xggz";
+      rev = "v2.0.5";
+      sha256 = "1lxawwngv6miaqd25s3ba0didfzylbwisd2nz7r4gmbmin6jsjrx";
     };
   }
   {
